@@ -12,4 +12,5 @@ streamlit run app/main.py
 
 ## Deployment
 
-Upload to GitHub and link with Streamlit Cloud.
+The app is live at:  
+[Loan Eligibility App](https://loaneligibilityapp-abzcwmuqtwdpmjrez8brqt.streamlit.app)
